@@ -1,0 +1,6 @@
+yfinance
+ydata-profiling
+ipywidgets
+sweetviz
+dtale
+autoviz
