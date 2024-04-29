@@ -4,3 +4,4 @@ ipywidgets
 sweetviz
 dtale
 autoviz
+numba==0.58.1
