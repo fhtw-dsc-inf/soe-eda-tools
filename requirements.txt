@@ -6,3 +6,4 @@ dtale
 autoviz
 numba==0.58.1
 papermill==2.6.0
+dagit
