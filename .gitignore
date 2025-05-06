@@ -160,3 +160,6 @@ cython_debug/
 #.idea/
 spotify_data.zip
 dagster/dagster-code-demo/.DS_Store
+
+
+*.tmp*
