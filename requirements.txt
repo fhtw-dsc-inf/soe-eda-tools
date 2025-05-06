@@ -12,3 +12,4 @@ numpy<2.2
 pandas<2.2
 jupyter==1.1.1
 scipy<1.11
+psycopg2-binary==2.9.10
